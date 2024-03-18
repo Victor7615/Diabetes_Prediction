@@ -55,5 +55,10 @@ This repository contains code for building a machine learning model to predict d
 
 ## Acknowledgments
 - [Data_Set Source](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
-- Other Resources(sklearn Library,Pandas,Numpy,Matploblib,Seaborn,Plotly,Joblib)
+- Other Resources: [scikit-learn (sklearn)](https://scikit-learn.org/stable/) [Numpy](https://numpy.org/) [Matplotlib](https://matplotlib.org/) [Joblib](https://joblib.readthedocs.io/en/latest/) [Plotly](https://plotly.com/python/)
+
+
+
+
+
 
