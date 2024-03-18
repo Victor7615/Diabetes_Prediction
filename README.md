@@ -54,6 +54,6 @@ This repository contains code for building a machine learning model to predict d
 - Victor Emuchay
 
 ## Acknowledgments
-- ([Data Set Source](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)[Data Set Source]
+- ([Data Set Source](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset) [DataSet Source]
 - Other Resources(sklearn Library,Pandas,Numpy,Matploblib,Seaborn,Plotly,Joblib)
 
