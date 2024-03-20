@@ -15,8 +15,8 @@ def load_data(data):
 
 def run_eda_app():
     st.subheader("EDA Section")
-    data=load_data("C:\\Users\\USER\\Desktop\\Streamlit\\Data\\diabetes_data_upload_clean.csv")
-    data2=load_data("C:\\Users\\USER\\Desktop\\Streamlit\\Data\\diabetes_data_upload.csv")
+    data=load_data("diabetes_data_upload_clean.csv")
+    data2=load_data("diabetes_data_upload.csv")
     
     st.write(data)
 
