@@ -2,9 +2,7 @@ import streamlit as st
 from eda__app import run_eda_app
 from Ml__app import run_ml
 import streamlit.components.v1 as stc  # for running CSS and HTML in streamlit
-PAGE_TITLE = "Diabetic Prediction"
-PAGE_ICON = "🩸🩺"
-st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
+
 
 html_temp= """
         <div style="background-color:#4F3BA2; padding:10px; border-radius:10px;">
