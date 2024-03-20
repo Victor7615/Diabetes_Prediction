@@ -48,10 +48,10 @@ This repository contains code for building a machine learning model to predict d
 4. **Model Deployment**: 
    - Load the saved Logistic Regression model (`Logistic_regression_diabetes_14_03_2024.pkl`) using Joblib for predictions.
    - Example code for making predictions is provided in the notebook.
-   - The model is deployed to a web application using Streamlit. Instructions for running the web app are provided in the `app/README.md` file.
+   - The model is deployed to a web application using Streamlit. Find attached the Web App link [Diabetes Predction Web App](https://diabetes-prediction-w6mi.onrender.com/).
 
 ## Contributor
-- Victor Emuchay
+- [Victor Emuchay](https://github.com/Victor7615/Diabetes_Prediction)
 
 ## Acknowledgments
 - [Data_Set Source](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
