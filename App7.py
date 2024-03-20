@@ -38,14 +38,16 @@ def main():
         
     else:
         st.subheader("About")
-        st.text("""- 💡 Our Machine learning helps detect early signs of type 2 diabetes (Diabetes Mellitus 2,DM 2).
+        st.text("""  App By Victor Emuchay
+        
+- 💡 Our Machine learning helps detect early signs of type 2 diabetes (Diabetes Mellitus 2,DM 2).
 - 📊 Researchers predict DM 2 using statistics and machine learning.
 - 📉 Age, gender, family history of DM, and high blood sugar levels are crucial factors in DM 2.
 - 🔄 Family history of DM, age, and high blood pressure increase DM 2 risk.
 - 📈 Maintaining normal blood sugar levels is essential for preventing DM 2.
 - 🧪 Our computer program accurately predicts DM 2 risks with 89% using logistic Regression Model.
 - 🩺 Smoking and activity have minimal impact on DM 2 risk.
-- 🤖 Computers learning from data can potentially identify DM 2 risks early.""")
+- 🤖 Computers learning from data can potentially identify DM 2 risks early. """)
 
 if __name__== '__main__':
 
