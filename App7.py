@@ -1,4 +1,7 @@
 import streamlit as st
+PAGE_TITLE = "Diabetic Prediction"
+PAGE_ICON = "🩺"
+st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 from eda__app import run_eda_app
 from Ml__app import run_ml
 import streamlit.components.v1 as stc  # for running CSS and HTML in streamlit
