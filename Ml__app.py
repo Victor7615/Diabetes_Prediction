@@ -34,7 +34,7 @@ attrib_info="""
 st.expander(attrib_info)
 def run_ml():
 # Path to your saved model
-    model_path = "C:\\Users\\USER\\Desktop\\Streamlit\\Diabetic_prediction\\Logistic_regression_diabetes_14_03_2024.pkl"
+    model_path = "Logistic_regression_diabetes_14_03_2024.pkl"
 
 # Load the model using joblib
     try:
@@ -116,49 +116,3 @@ def run_ml():
             st.success("You likely don't have Diabetes.")
 
 
-# ... display prediction results ...
-
-
-
-
-#model =pickle.load(open('Logistic_regression_diabetes_14_03_2024.pkl','rb'))
-#def main():
-    #st.title("Diabetic Prediction Solution")
-    
-
-    # creating input Variables
-
-    #Age =st.text_input('age')
-    #Gender=st.text_input('gender')
-    #Polyuria=st.text_input('polyuria')
-    #Polydipsia=st.text_input('polydipsia')
-    #sudden_weight_loss=st.text_input('sudden_weight_loss')
-    #Weakness=st.text_input('weakness')
-    #Polyphagia=st.text_input('polyphagia')
-    #Genital_thrush=st.text_input('genital_thrush')
-    #Visual_blurring=st.text_input('visual_blurring')
-    #Itching=st.text_input('itching')
-    #irritability=st.text_input('irritability')
-    #Delayed_healing=st.text_input('delayed_healing')
-    #Partial_paresis=st.text_input('partial_paresis')
-    #Muscle_stiffness=st.text_input('muscle_stiffness')
-    #Alopecia=st.text_input('alopecia')
-    #Obesity=st.text_input('obesity')
-    
-
-    # prediction
-   # if st.button('Predict'):
-       # makeprediction=model.predict([[Age,Gender,Polyuria,Polydipsia,sudden_weight_loss,Weakness,Polyphagia,Genital_thrush,Visual_blurring,Itching,irritability,Delayed_healing,Partial_paresis,Muscle_stiffness,Alopecia,Obesity]])
-
-         
-        #if makeprediction==1:
-             
-           # st.warning("Sorry!you have Diabetes")
-        #else:
-           #  st.success("Congratution! You dont have diabetes")
-
-#if __name__=='__main__':
-
-#    main()
-
-#'C:\\Users\\USER\\Desktop\\Streamlit\\Diabetic_prediction\\Logistic_regression_diabetes_14_03_2024.pkl','rb'
