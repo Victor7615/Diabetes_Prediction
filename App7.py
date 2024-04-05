@@ -41,7 +41,7 @@ def main():
         
     else:
         st.subheader("About")
-        st.text("""  App By Data Science Team
+        st.text("""  App By Victor Emuchay
         
 - 💡 Our Machine learning helps detect early signs of type 2 diabetes (Diabetes Mellitus 2,DM 2).
 - 📊 Researchers predict DM 2 using statistics and machine learning.
